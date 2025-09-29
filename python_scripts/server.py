@@ -7,11 +7,13 @@ vectorized documents using SentenceTransformer embeddings.
 """
 
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 import json
 import os
 from search import DocumentSearcher
 
 app = Flask(__name__)
+CORS(app)  # Enable CORS for all routes
 
 # Global searcher instance
 searcher = None
