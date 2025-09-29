@@ -59,17 +59,19 @@ export default function SearchResults({ query }) {
         setResults([]);
       } else {
         // Transform the API response to match the expected format
-        const transformedResults = searchResponse.results.map((result) => ({
-          id: result.document_id,
-          title: result.title,
-          text: result.text_preview,
-          author: result.author,
-          date: result.date,
-          stream: result.category,
-          category: result.category,
-          tags: result.tags || [],
-          similarity_score: result.similarity_score,
-        }));
+        const transformedResults = searchResponse.results
+          .map((result) => ({
+            id: result.document_id,
+            title: result.title,
+            text: result.text_preview,
+            author: result.author,
+            date: result.date,
+            stream: result.category,
+            category: result.category,
+            tags: result.tags || [],
+            similarity_score: result.similarity_score,
+          }))
+          .filter((doc) => doc.title && doc.title.trim() !== ""); // Filter out documents without titles
         setResults(transformedResults);
       }
 
@@ -175,9 +177,9 @@ function SearchResultCard({ doc, query }) {
     <article className="group rounded-xl border border-black/10 dark:border-white/10 bg-white/70 dark:bg-white/5 backdrop-blur shadow-sm hover:shadow-md transition overflow-hidden">
       <div className="p-5 flex flex-col gap-3">
         <div className="flex items-center justify-between gap-2">
-          <span className="inline-flex items-center gap-1 rounded-full px-2 py-1 text-xs font-medium bg-black/5 dark:bg-white/10">
+          {/* <span className="inline-flex items-center gap-1 rounded-full px-2 py-1 text-xs font-medium bg-black/5 dark:bg-white/10">
             {doc.stream || doc.category}
-          </span>
+          </span> */}
           <time className="text-xs opacity-60" dateTime={doc.date}>
             {doc.date}
           </time>

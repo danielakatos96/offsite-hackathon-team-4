@@ -46,7 +46,7 @@ export default async function SearchPage({ searchParams }) {
             name="q"
             defaultValue={q}
             placeholder="Search articles, tags, authors…"
-            className="flex-1 h-12 rounded-full border border-black/10 border-white/20 bg-white px-4 text-base outline-none focus:ring-2 focus:ring-[#EAFE40] dark:focus:ring-white/30"
+            className="flex-1 h-12 rounded-full border border-black/20 bg-white px-4 text-base outline-none focus:ring-2 focus:ring-[#EAFE40] dark:focus:ring-white/30"
             suppressHydrationWarning
             autoComplete="off"
           />
