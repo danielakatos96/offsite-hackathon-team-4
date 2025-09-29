@@ -66,19 +66,34 @@ class DataVectorizer:
         
         # Handle different data structures
         if isinstance(self.raw_data, list):
+            print(f"Processing list of {len(self.raw_data)} documents")
             # List of documents
-            for doc in self.raw_data:
+            for i, doc in enumerate(self.raw_data):
                 if isinstance(doc, dict) and text_field in doc:
+                    print(f"Adding text from document {i+1} (dictionary)")
                     sentences.append(doc[text_field])
                 elif isinstance(doc, str):
+                    print(f"Adding text from document {i+1} (string)")
                     sentences.append(doc)
         elif isinstance(self.raw_data, dict):
-            # Single document or dictionary
-            if text_field in self.raw_data:
+            print("Processing single document dictionary")
+            # Check if this is a nested structure with documents
+            if 'documents' in self.raw_data and isinstance(self.raw_data['documents'], list):
+                print(f"Found nested documents structure with {len(self.raw_data['documents'])} documents")
+                for i, doc in enumerate(self.raw_data['documents']):
+                    if isinstance(doc, dict) and text_field in doc:
+                        print(f"Adding text from nested document {i+1}")
+                        sentences.append(doc[text_field])
+            # Single document or dictionary with direct text field
+            elif text_field in self.raw_data:
                 if isinstance(self.raw_data[text_field], list):
+                    print(f"Adding {len(self.raw_data[text_field])} texts from list field")
                     sentences.extend(self.raw_data[text_field])
                 else:
+                    print("Adding single text from field")
                     sentences.append(self.raw_data[text_field])
+            else:
+                print(f"No '{text_field}' field found in dictionary. Available keys: {list(self.raw_data.keys())}")
         
         return sentences
     
@@ -111,7 +126,9 @@ class DataVectorizer:
         Returns:
             Vectorized embeddings as numpy array
         """
+        print(f"Processing JSON data with text field: {text_field}")
         sentences = self.extract_sentences(text_field)
+        print(f"Extracted {len(sentences)} sentences")
         return self.vectorize_sentences(sentences)
     
     def save_embeddings(self, output_path: str) -> None:
