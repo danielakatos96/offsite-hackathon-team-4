@@ -166,7 +166,7 @@ def main():
     
     # Load and process JSON data
     try:
-        vectorizer.load_json_data('sample_data.json')
+        vectorizer.load_json_data('data.json')
         embeddings = vectorizer.process_json_data('text')
         
         print(f"Embeddings shape: {embeddings.shape}")
@@ -176,7 +176,7 @@ def main():
         vectorizer.save_embeddings('embeddings.npy')
         
     except FileNotFoundError:
-        print("sample_data.json not found. Please create the sample data file first.")
+        print("data.json not found. Please create the sample data file first.")
     except Exception as e:
         print(f"Error: {e}")
 

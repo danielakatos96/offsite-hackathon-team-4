@@ -1,0 +1,949 @@
+{
+  "documents": [
+    {
+      "id": 1,
+      "title": "Challenger Science",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Challenger Science\nClient Name in the local language/ language of the contract (End client for which the work is performed): Nadacia ESET\nClient name in English (In case it is a Ministry/public organization indicate of which country, e.g., Ministry of Education of Ukraine): Foundation ESET\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK ESET 01\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2024-05-31\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2024-12-31\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €114,400.00\nProject Manager Name: Martin Veselý\nProject Description: Challenger Science is an educational program that fosters entrepreneurial skills and empowers scientists from various scientific disciplines to identify opportunities for translating their research into practical applications.​",
+      "stream": "Innovation",
+      "author": "Martin Veselý",
+      "date": "2024-05-31",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "Nadacia ESET",
+        "Foundation ESET",
+        "SK ESET 01"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Challenger Ideator",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Challenger Ideator\nClient Name in the local language/ language of the contract (End client for which the work is performed): Slovenska sporitelna\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK SLSP 02\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2023-09-01\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2024-01-31\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €91,162.13\nProject Manager Name: Martin Veselý\nOwner: Eva Šimeková\nProject Description: Non-equity intensive 3-month educational program for teams of students and aspiring entrepreneurs.​ It aims to build new skills and increase qualifications. Teams are generating, developing, and testing ideas. Mentoring and guidance are provided by experienced entrepreneurs or business professionals. ​In the current batch, we assist 50+ participants in 15 teams. ​",
+      "stream": "Innovation",
+      "author": "Martin Veselý",
+      "date": "2023-09-01",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "Slovenska sporitelna",
+        "SK SLSP 02",
+        "Eva Šimeková"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "EIT Urban Mobility 2024",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EIT Urban Mobility 2024\nClient Name in the local language/ language of the contract (End client for which the work is performed): EIT Kic Urban Mobility S.L.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK EITUM 04\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2024-01-01\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2024-12-31\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €145,670.00\nCIVITTA budget EUR: €21,847.00\nProportion, %: 15%\nProject Manager Name: Eva Šimeková\nOwner: Eva Šimeková\nProject Description: RIS Hubs will focus on supporting startups and organisations in applying to EIT UM open calls, expanding networking, and awareness-raising activities that will continue to build the basis of a strong RIS UM Hub operation in Slovakia. 1. Network - Map key stakeholders related to Urban Mobility and their potential connections in the region and Across Europe. Execute an engagement plan across the knowledge triangle. 2. Facilitating innovation – Support start-ups/scale-ups, providing education and training for public and private sector operators, public realm improvements, organizing events to boost knowledgeability and innovation in the field of urban mobility 3. Financial Sustainability Actions - These activities are aimed at making sure that the RIS UM Hub is providing real economic value to the UM sector.\nClosed?: No",
+      "stream": "Innovation",
+      "author": "Eva Šimeková",
+      "date": "2024-01-01",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "EIT Kic Urban Mobility S.L.",
+        "SK EITUM 04",
+        "Eva Šimeková"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Climathon Bratislava 2024",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Climathon Bratislava 2024\nClient Name in the local language/ language of the contract (End client for which the work is performed): Swiss Re Management AG IBL Software Engineering spol. s.r.o., NAdacia Slovenskej Sporitelne, Nadacia Tipsport, Takeda\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK CLI 13-1, SK CLI 13-2, SK CLI 13-3, SK CLI 13-4, SK CLI 13-5\nStream: Innovation\nBilled by: Civitta SK, Innovation League\nStart date (As per contract): 2024-06-20\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2024-11-30\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €110,000.00\nProject Manager Name: Martin Veselý\nOwner: Eva Šimeková\nProject Description: Climathon Bratislava is an innovative event, during which teams of students and enthusiasts from all over Slovakia create solutions in cooperation with representatives of the city, experienced mentors and experts from practice. This project is part of a global initiative involving more than 140 cities from 56 countries.\nClosed?: No",
+      "stream": "Innovation",
+      "author": "Martin Veselý",
+      "date": "2024-06-20",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "Innovation League",
+        "Swiss Re Management AG\nIBL Software Engineering spol. s.r.o.",
+        "NAdacia Slovenskej Sporitelne",
+        "Nadacia Tipsport",
+        "Takeda",
+        "SK CLI 13-1",
+        "SK CLI 13-2",
+        "SK CLI 13-3",
+        "SK CLI 13-4",
+        "SK CLI 13-5",
+        "Eva Šimeková"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Startup Awards",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Startup Awards\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK SASK 01 (codes SK SASK 01-1 to 28)\nStream: Innovation\nBilled by: Civitta SK, Innovation League\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2024-11-21\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €311,000.00",
+      "stream": "Innovation",
+      "author": "",
+      "date": "",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "Innovation League",
+        "SK SASK 01 (codes SK SASK 01-1 to 28)"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Climathon 2023 – IBL",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Climathon 2023 – IBL\nClient Name in the local language/ language of the contract (End client for which the work is performed): IBL Software Engineering spol. s.r.o.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK CLI 08\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2023-05-01\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2023-07-18\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €25,000.00\nProject Manager Name: Martin Veselý\nOwner: Eva Šimeková\nProject Description: Climathon Bratislava is an innovative event, during which teams of students and enthusiasts from all over Slovakia create solutions in cooperation with representatives of the city, experienced mentors and experts from practice. This project is part of a global initiative involving more than 140 cities from 56 countries.\nClosed?: No",
+      "stream": "Innovation",
+      "author": "Martin Veselý",
+      "date": "2023-05-01",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "IBL Software Engineering spol. s.r.o.",
+        "SK CLI 08",
+        "Eva Šimeková"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Surveying the perseption of Belarusians on economy related issues",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Surveying the perseption of Belarusians on economy related issues\nClient Name in the local language/ language of the contract (End client for which the work is performed): Institut pre privat a manazment\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK BEROC 02\nStream: Public\nBilled by: Civitta SK\nStart date (As per contract): 2023-01-09\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2023-07-18\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Policy\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €11,500.00\nProject Manager Name: Philipp Bikanau\nOwner: Philipp Bikanau\nProject Description: Surveying the perseption of Belarusians on economy related issues\nClosed?: No",
+      "stream": "Public",
+      "author": "Philipp Bikanau",
+      "date": "2023-01-09",
+      "tags": [
+        "Public",
+        "Civitta SK",
+        "Institut pre privat a manazment",
+        "SK BEROC 02",
+        "Philipp Bikanau"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "EDIH admin costs",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EDIH admin costs\nClient Name in the local language/ language of the contract (End client for which the work is performed): MIRRI\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK MIR 01\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2023-01-09\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2023-07-17\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Horizon Programmes\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €168,293.00\nProject Manager Name: Marek Ševčík\nOwner: Anna Brziaková\nProject Description: Slovak Artificial Intelligence Digital Innovation Hub\nClosed?: No",
+      "stream": "Innovation",
+      "author": "Marek Ševčík",
+      "date": "2023-01-09",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "MIRRI",
+        "SK MIR 01",
+        "Anna Brziaková"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "EIT Urban Mobility 2023",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EIT Urban Mobility 2023\nClient Name in the local language/ language of the contract (End client for which the work is performed): EIT Kic Urban Mobility S.L.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK EITUM 03\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2023-01-24\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2023-07-17\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €158,965.00\nProject Manager Name: Silvester Krčméry\nOwner: Michal Laco\nProject Description: EIT Urban Mobility Hub in Slovakia\nClosed?: No",
+      "stream": "Innovation",
+      "author": "Silvester Krčméry",
+      "date": "2023-01-24",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "EIT Kic Urban Mobility S.L.",
+        "SK EITUM 03",
+        "Michal Laco"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "EIT Health Hub 2023",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EIT Health Hub 2023\nClient Name in the local language/ language of the contract (End client for which the work is performed): EIT Health e.V.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK EITH 02\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2023-03-20\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2023-07-17\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nConsortium Members (List all if applicable): EIT Health InnoStars Riga Stradins University Asociatia INIT with the FreshBlood HealthTech Community Lithuanian University of Health Sciences University of Pécs - Institute of Transdisciplinary Discoveries University of Porto Consorzio Arca University of Zagreb DEX Innovation Centre Ljubljana University Incubator Tartu Biotechnology Park National Documentation Centre (EKT) University of Evora Klaster LifeScience Krakow Foundation Civitta Slovakia\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €50,000.00\nProject Manager Name: Silvester Krčméry\nOwner: Peter Kolesár\nProject Description: EIT Health RIS aims to develop the innovation ecosystems in the RIS regions where we support the creation of regional innovation valleys that will lead to the flow of talents, emergence of new ideas, the establishment of new start-ups, bringing more solutions to markets, and strengthening and better connecting innovation players throughout Europe. To reach this goal, the RIS programme will focus on accelerating and strengthening innovation across the RIS innovation ecosystems and addressing the innovation divide between regions; fostering, attracting, and retaining entrepreneurial talents to ensure the flow of talents; improving access to finance for RIS start-ups and scale-ups and equip them with the skills to successfully become integral players of European markets; improving the conditions of KTI collaborations to allow innovators to experiment with new ideas and help them to finalize their proof of concepts.\nClosed?: No",
+      "stream": "Innovation",
+      "author": "Silvester Krčméry",
+      "date": "2023-03-20",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "EIT Health e.V.",
+        "SK EITH 02",
+        "Peter Kolesár"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "EDIH Funding Team",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EDIH Funding Team\nClient Name in the local language/ language of the contract (End client for which the work is performed): MIRRI\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK MIR 03\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2023-01-09\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2023-07-14\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Horizon Programmes\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €189,330.00\nProject Manager Name: Marek Ševčík\nOwner: Anna Brziaková\nProject Description: Slovak Artificial Intelligence Digital Innovation Hub\nClosed?: No",
+      "stream": "Innovation",
+      "author": "Marek Ševčík",
+      "date": "2023-01-09",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "MIRRI",
+        "SK MIR 03",
+        "Anna Brziaková"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "FLOPRES SUCCESS FEE ESPRIT",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): FLOPRES SUCCESS FEE ESPRIT\nClient Name in the local language/ language of the contract (End client for which the work is performed): ESPRIT\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK ESP 03\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2023-07-03\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2023-07-03\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Horizon Programmes\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €46,876.00\nProject Manager Name: Matej Barvirčák\nOwner: Peter Kolesár\nProject Description: SUCCESS FEE FOR SUCCESSFUL LIFE APPLICATION FLOPRES - ESPRIT\nClosed?: No",
+      "stream": "Innovation",
+      "author": "Matej Barvirčák",
+      "date": "2023-07-03",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "ESPRIT",
+        "SK ESP 03",
+        "Peter Kolesár"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "EICA - Nitroterra w/out KK",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EICA - Nitroterra w/out KK\nClient Name in the local language/ language of the contract (End client for which the work is performed): Nitroterra Technology, j.s.a.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK NITRO 01\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2023-04-24\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2023-07-03\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Funding\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €35,852.00\nProject Manager Name: Iurii Volodymyr Blavt\nOwner: Eva Šimeková\nClosed?: No",
+      "stream": "Innovation",
+      "author": "Iurii Volodymyr Blavt",
+      "date": "2023-04-24",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "Nitroterra Technology",
+        "j.s.a.",
+        "SK NITRO 01",
+        "Eva Šimeková"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "FLOPRES SUCCESS FEE - GOSPACE",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): FLOPRES SUCCESS FEE - GOSPACE\nClient Name in the local language/ language of the contract (End client for which the work is performed): GOSPACE Tech s.r.o.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK GOSP 08\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2023-07-03\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2023-07-03\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Horizon Programmes\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €24,401.00\nProject Manager Name: Matej Barvirčák\nOwner: Eva Šimeková\nProject Description: SUCCESS FEE FOR SUCCESSFUL LIFE APPLICATION FLOPRES - GOSPACE\nClosed?: No",
+      "stream": "Innovation",
+      "author": "Matej Barvirčák",
+      "date": "2023-07-03",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "GOSPACE Tech s.r.o.",
+        "SK GOSP 08",
+        "Eva Šimeková"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Climathon Tirana 22-23",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Climathon Tirana 22-23\nClient Name in the local language/ language of the contract (End client for which the work is performed): Slovak Organization for Research and Development activities\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK SAID 07\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2023-01-04\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2023-07-03\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €49,462.00\nProject Manager Name: Martin Veselý\nOwner: Michal Laco\nProject Description: The main goal of the project was to improve Albania's innovation ecosystem by supporting the creation and acceleration of young innovative companies (startups). The region generally suffers from insufficiently connected startups and technology companies to real challenges and vulnerability to climate change.​ ​\nClosed?: No",
+      "stream": "Innovation",
+      "author": "Martin Veselý",
+      "date": "2023-01-04",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "Slovak Organization for Research and Development activities",
+        "SK SAID 07",
+        "Michal Laco"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Climathon 2022",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Climathon 2022\nClient Name in the local language/ language of the contract (End client for which the work is performed): Swiss Re Management AG Takeda Pharmaceuticals Slovakia s.r.o. IBL Software Engineering spol. s.r.o.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK CLI 05, 06, 07\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2022-06-01\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2022-11-01\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €115,000.00\nProject Manager Name: Michal Laco\nOwner: Michal Laco\nProject Description: A hackathon is a creative and intense event used to gather new ideas and concepts. It invites diverse teams of programmers, data experts, designers, graphic designers and business experts to work on one of the assignments. After 48 hours, they create solutions that are presented and a panel of judges determines the winner. The capital and partners can develop the ideas (proof of concept) further with the teams and the subject matter can have a positive impact on data-driven city management and active involvement of residents in city life. The aim of the hackathon is to propose technical solutions that will help to address the challenges of sustainability, quality of life, transparency and information for the residents of Bratislava and the joint implementation of the Sustainable Development Goals 2030 (SDGs 2030).",
+      "stream": "Innovation",
+      "author": "Michal Laco",
+      "date": "2022-06-01",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "Swiss Re Management AG\nTakeda Pharmaceuticals Slovakia s.r.o.\nIBL Software Engineering spol. s.r.o.",
+        "SK CLI 05",
+        "06",
+        "07",
+        "Michal Laco"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "EIC Transition for ReCatalyst",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EIC Transition for ReCatalyst\nClient Name in the local language/ language of the contract (End client for which the work is performed): ReCatalyst d.o.o.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK REC 01\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2023-06-01\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2023-06-05\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Horizon Programmes\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €3,500.00\nProject Manager Name: Olena Shershun\nOwner: Eva Šimeková\nProject Description: Civitta is delivering services of proposal writing for EIC Transition program\nClosed?: No",
+      "stream": "Innovation",
+      "author": "Olena Shershun",
+      "date": "2023-06-01",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "ReCatalyst d.o.o.",
+        "SK REC 01",
+        "Eva Šimeková"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "EIT Health Hub 2022",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EIT Health Hub 2022\nClient Name in the local language/ language of the contract (End client for which the work is performed): EIT Health e.V.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK EITH 01\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2022-09-02\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2023-01-20\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €25,000.00\nProject Manager Name: Silvester Krčméry\nOwner: Peter Kolesár\nProject Description: EIT Health Hub in Slovakia aims to find the best talents, entrepreneurs and start-ups from Slovakia, support innovative SMEs to create new economic activity and new jobs locally. In particular, the Hub is dedicated to the development of the local innovation ecosystem and is implementing several activities to help students, researchers, and entrepreneurs to find the best way to develop their hard and soft skills and to successfully translate their ideas into the market. Additionally, the Hub will organize pilot projects and accelerator programs to spark the passion for healthcare.\nClosed?: Yes",
+      "stream": "Innovation",
+      "author": "Silvester Krčméry",
+      "date": "2022-09-02",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "EIT Health e.V.",
+        "SK EITH 01",
+        "Peter Kolesár"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "SBOX Master Class",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): SBOX Master Class\nClient Name in the local language/ language of the contract (End client for which the work is performed): Startupbox z.s\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK SBOX 01\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2022-03-01\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2023-08-01\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €7,629.60\nCIVITTA budget EUR: €1,525.92\nProportion, %: 20%\nProject Manager Name: Eva Šimeková\nOwner: Eva Šimeková\nProject Description: StartupBox is a digital mentor for building a startup step by step. It will help participants to get innovative project off the ground, teach them what's important for their projects, and answer the most common questions in the early days of starting business.",
+      "stream": "Innovation",
+      "author": "Eva Šimeková",
+      "date": "2022-03-01",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "Startupbox z.s",
+        "SK SBOX 01",
+        "Eva Šimeková"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "EIT Climate-KIC Hub SK 2022",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EIT Climate-KIC Hub SK 2022\nClient Name in the local language/ language of the contract (End client for which the work is performed): Climate-KIC Holding B.V.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK EITC 06 OLD\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2022-04-20\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2022-12-30\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €36,000.00\nProject Manager Name: Michal Laco\nOwner: Michal Laco\nProject Description: EIT Climate KIC Hub in Slovakia\nClosed?: Yes",
+      "stream": "Innovation",
+      "author": "Michal Laco",
+      "date": "2022-04-20",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "Climate-KIC Holding B.V.",
+        "SK EITC 06 OLD",
+        "Michal Laco"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "EIT Urban Mobility 2022",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EIT Urban Mobility 2022\nClient Name in the local language/ language of the contract (End client for which the work is performed): EIT Kic Urban Mobility S.L.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK EITUM 02\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2022-02-21\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2022-12-28\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €89,383.00\nProject Manager Name: Michal Laco\nOwner: Michal Laco\nProject Description: EIT Urban Mobility Hub in Slovakia\nClosed?: Yes",
+      "stream": "Innovation",
+      "author": "Michal Laco",
+      "date": "2022-02-21",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "EIT Kic Urban Mobility S.L.",
+        "SK EITUM 02",
+        "Michal Laco"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "EIT RawMaterials - Incubator 2022",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EIT RawMaterials - Incubator 2022\nClient Name in the local language/ language of the contract (End client for which the work is performed): EIT Raw Materials CLC East Sp. z o. o\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK EITR 04 OLD\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2022-11-07\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2022-12-28\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €25,000.00\nProject Manager Name: Silvester Krčméry\nOwner: Eva Šimeková\nClosed?: Yes",
+      "stream": "Innovation",
+      "author": "Silvester Krčméry",
+      "date": "2022-11-07",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "EIT Raw Materials CLC East Sp. z o. o",
+        "SK EITR 04 OLD",
+        "Eva Šimeková"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "AI-EDIH (HOPERO)",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): AI-EDIH (HOPERO)\nClient Name in the local language/ language of the contract (End client for which the work is performed): MIRRI\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK MIR 01 OLD\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2022-06-21\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2022-12-21\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Horizon Programmes\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €96,289.00\nProject Manager Name: Anna Brziaková\nOwner: Peter Kolesár\nProject Description: Slovak Artificial Intelligence Digital Innovation Hub\nClosed?: Yes",
+      "stream": "Innovation",
+      "author": "Anna Brziaková",
+      "date": "2022-06-21",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "MIRRI",
+        "SK MIR 01 OLD",
+        "Peter Kolesár"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "EIT Climate-KIC Accelerator 2022",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EIT Climate-KIC Accelerator 2022\nClient Name in the local language/ language of the contract (End client for which the work is performed): Climate-KIC Holding B.V.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK EITC 07 OLD\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2022-05-04\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2022-12-16\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €94,883.00\nProject Manager Name: Michal Laco\nOwner: Michal Laco\nProject Description: EIT Climate KIC Hub in Slovakia\nClosed?: Yes",
+      "stream": "Innovation",
+      "author": "Michal Laco",
+      "date": "2022-05-04",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "Climate-KIC Holding B.V.",
+        "SK EITC 07 OLD",
+        "Michal Laco"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "HealthHack 2022",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): HealthHack 2022\nClient Name in the local language/ language of the contract (End client for which the work is performed): Roche Slovensko, s.r.o.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK ROCHE 04 OLD\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2022-03-24\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2022-12-15\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €65,000.00\nProject Manager Name: Martin Veselý\nOwner: Peter Kolesár\nClosed?: Yes",
+      "stream": "Innovation",
+      "author": "Martin Veselý",
+      "date": "2022-03-24",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "Roche Slovensko",
+        "s.r.o.",
+        "SK ROCHE 04 OLD",
+        "Peter Kolesár"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "EICA 2019 - success fee",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EICA 2019 - success fee\nClient Name in the local language/ language of the contract (End client for which the work is performed): GOSPACE Tech s.r.o.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK GOSP 06\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2022-10-14\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2022-11-24\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Funding\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €42,424.00\nProject Manager Name: Eva Šimeková\nOwner: Eva Šimeková\nClosed?: Yes",
+      "stream": "Innovation",
+      "author": "Eva Šimeková",
+      "date": "2022-10-14",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "GOSPACE Tech s.r.o.",
+        "SK GOSP 06",
+        "Eva Šimeková"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "",
+      "text": "Client Name in the local language/ language of the contract (End client for which the work is performed): Mesto Košice\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK UIA 1,2,3\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2020-07-01\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2023-06-01\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €408,286.25\nCIVITTA budget EUR: €81,657.25\nProportion, %: 20%\nProject Manager Name: Eva Šimeková\nOwner: Peter Kolesár\nProject Description: Cities across the EU are facing lack of civic participation, lack of trust in public institutions and rise in populism. Investments into creative infrastructure have often fallen short of reaching the projected transformation impact on the local economyand its potential to increase civic engagement and wellbeing have not materialized. We have designed the Citizen Experience and Wellbeing Institute (CXI),which would use newart forms to collect data and provide evidence-based data to policy-makers.CXIwould be linked with the Urban Innovation Sphere supporting entrepreneurs and creative professions and the Dare to Create education component designed to foster creative education, competent &open administration and entrepreneurship. The solution is original and innovative because it brings the concept of citizen experience to policy-making and increases participation byproviding engaging access to data through art. It also provides a basis for an integrated approach to connecting culture and traditional industries for a more resilient economy. The change we want to bring to the current situation is threefold – (1) increase well-being of the citizens through cultural heritage and highlighting the role of citizen experience in decision-making, (2) make large employers in the region more competitive by establishing links with creative professions and create a pipeline of newstartups and urban innovations and (3) increase civic engagement and participation in culture.",
+      "stream": "Innovation",
+      "author": "Eva Šimeková",
+      "date": "2020-07-01",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "Mesto Košice",
+        "SK UIA 1",
+        "2",
+        "3",
+        "Peter Kolesár"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "ODC SK Feasibilty Study",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): ODC SK Feasibilty Study\nClient Name in the local language/ language of the contract (End client for which the work is performed): Orange Slovensko, a.s.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK OSK 01\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2022-01-12\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2022-07-21\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Other\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €40,460.00\nProject Manager Name: Lucia Gallíková\nClosed?: Yes",
+      "stream": "Innovation",
+      "author": "Lucia Gallíková",
+      "date": "2022-01-12",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "Orange Slovensko",
+        "a.s.",
+        "SK OSK 01"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "",
+      "text": "",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 30,
+      "title": "Innovate Now! 2021-22",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Innovate Now! 2021-22\nClient Name in the local language/ language of the contract (End client for which the work is performed): InnoEnergy Central Europe Sp z o.o.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK INTR 04 OLD 2022\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2022-01-03\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2022-06-30\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €71,805.00\nProject Manager Name: Michal Laco\nOwner: Michal Laco\nProject Description: Innovation Support Framework for fostering the collaboration of startups, SMEs and large companies on clean-tech projects\nClosed?: Yes",
+      "stream": "Innovation",
+      "author": "Michal Laco",
+      "date": "2022-01-03",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "InnoEnergy Central Europe Sp z o.o.",
+        "SK INTR 04 OLD 2022",
+        "Michal Laco"
+      ]
+    },
+    {
+      "id": 31,
+      "title": "SHREC Action Plan",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): SHREC Action Plan\nClient Name in the local language/ language of the contract (End client for which the work is performed): Slovenská inovačná a energetická agentúra\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK SIA 01\nStream: Public\nBilled by: Civitta SK\nStart date (As per contract): 2022-05-02\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2022-06-27\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Policy\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €28,000.00\nProject Manager Name: Anna Brziaková\nOwner: Anna Brziaková\nProject Description: Analysis and creation of an action plan for \"SHREC - Interreg Europe\nClosed?: Yes",
+      "stream": "Public",
+      "author": "Anna Brziaková",
+      "date": "2022-05-02",
+      "tags": [
+        "Public",
+        "Civitta SK",
+        "Slovenská inovačná a energetická agentúra",
+        "SK SIA 01",
+        "Anna Brziaková"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Roche Corporate Accelerator 2022",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Roche Corporate Accelerator 2022\nClient Name in the local language/ language of the contract (End client for which the work is performed): Roche Slovensko, s.r.o.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK ROCHE 02 2022\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2022-01-03\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2022-06-07\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €55,440.00\nProject Manager Name: Martin Veselý\nOwner: Peter Kolesár\nClosed?: Yes",
+      "stream": "Innovation",
+      "author": "Martin Veselý",
+      "date": "2022-01-03",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "Roche Slovensko",
+        "s.r.o.",
+        "SK ROCHE 02 2022",
+        "Peter Kolesár"
+      ]
+    },
+    {
+      "id": 33,
+      "title": "EICA - Nitroterra w/out KK",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EICA - Nitroterra w/out KK\nClient Name in the local language/ language of the contract (End client for which the work is performed): Nitroterra Technology, j.s.a.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK NITRO 01 2022\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2022-04-20\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2022-04-20\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Funding\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €12,000.00\nProject Manager Name: Iurii Volodymyr Blavt\nOwner: Eva Šimeková\nClosed?: Yes",
+      "stream": "Innovation",
+      "author": "Iurii Volodymyr Blavt",
+      "date": "2022-04-20",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "Nitroterra Technology",
+        "j.s.a.",
+        "SK NITRO 01 2022",
+        "Eva Šimeková"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "EIT Urban Mobility 2021",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EIT Urban Mobility 2021\nClient Name in the local language/ language of the contract (End client for which the work is performed): EIT Kic Urban Mobility S.L.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK EITUM 01 OLD\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2021-10-06\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2021-12-30\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €51,460.00\nProject Manager Name: Michal Laco\nOwner: Michal Laco\nProject Description: EIT Urban Mobility Hub in Slovakia\nClosed?: Yes",
+      "stream": "Innovation",
+      "author": "Michal Laco",
+      "date": "2021-10-06",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "EIT Kic Urban Mobility S.L.",
+        "SK EITUM 01 OLD",
+        "Michal Laco"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "EIT Climate-KIC Hub SK 2021",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EIT Climate-KIC Hub SK 2021\nClient Name in the local language/ language of the contract (End client for which the work is performed): Climate-KIC Holding B.V.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK EITC 04 OLD\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2021-03-03\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2021-12-28\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €36,372.00\nProject Manager Name: Michal Laco\nOwner: Michal Laco\nProject Description: EIT Climate KIC Hub in Slovakia\nClosed?: Yes",
+      "stream": "Innovation",
+      "author": "Michal Laco",
+      "date": "2021-03-03",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "Climate-KIC Holding B.V.",
+        "SK EITC 04 OLD",
+        "Michal Laco"
+      ]
+    },
+    {
+      "id": 36,
+      "title": "EIT Climate-KIC Accelerator 2021",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EIT Climate-KIC Accelerator 2021\nClient Name in the local language/ language of the contract (End client for which the work is performed): Climate-KIC Holding B.V.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK EITC 05 OLD\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2021-07-16\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2021-12-28\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €76,591.00\nProject Manager Name: Michal Laco\nOwner: Michal Laco\nProject Description: EIT Climate KIC Hub in Slovakia\nClosed?: Yes",
+      "stream": "Innovation",
+      "author": "Michal Laco",
+      "date": "2021-07-16",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "Climate-KIC Holding B.V.",
+        "SK EITC 05 OLD",
+        "Michal Laco"
+      ]
+    },
+    {
+      "id": 37,
+      "title": "",
+      "text": "",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 38,
+      "title": "Roche Corporate Accelerator 2022",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Roche Corporate Accelerator 2022\nClient Name in the local language/ language of the contract (End client for which the work is performed): Roche Slovensko, s.r.o.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK ROCHE 02 OLD\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2021-08-05\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2021-12-21\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €55,000.00\nProject Manager Name: Martin Veselý\nOwner: Peter Kolesár\nClosed?: Yes",
+      "stream": "Innovation",
+      "author": "Martin Veselý",
+      "date": "2021-08-05",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "Roche Slovensko",
+        "s.r.o.",
+        "SK ROCHE 02 OLD",
+        "Peter Kolesár"
+      ]
+    },
+    {
+      "id": 39,
+      "title": "SAV Trainings 2021",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): SAV Trainings 2021\nClient Name in the local language/ language of the contract (End client for which the work is performed): Slovak Academy of Science\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK SAV 03\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2021-07-06\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2021-12-13\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €29,500.00\nProject Manager Name: Martin Veselý\nOwner: Peter Kolesár\nClosed?: Yes",
+      "stream": "Innovation",
+      "author": "Martin Veselý",
+      "date": "2021-07-06",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "Slovak Academy of Science",
+        "SK SAV 03",
+        "Peter Kolesár"
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Challenger Green & Digital",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Challenger Green & Digital\nClient Name in the local language/ language of the contract (End client for which the work is performed): Majerník & Miháliková s.r.o. Inventa Patentová a známková kancelária s. r. o. Sparring - Law & Tech s.r.o. CB Investment Management s.r.o. Slovak Investment Holding Venture to Future Fund Vision Ventures s.r.o. Takeda Pharmaceuticals Slovakia s.r.o. Taiwania Capital Management Corporation Slovenská sporiteľňa a.s. eD system a.s. organizačná zložka Slovensko British Embassy Bratislava\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK CHAL 40 - 51\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2022-01-01\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2022-12-01\nProject Manager Name: Eva Šimeková\nOwner: Eva Šimeková",
+      "stream": "Innovation",
+      "author": "Eva Šimeková",
+      "date": "2022-01-01",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "Majerník & Miháliková s.r.o.\nInventa Patentová a známková kancelária s. r. o.\nSparring - Law & Tech s.r.o.\nCB Investment Management s.r.o.\nSlovak Investment Holding\nVenture to Future Fund\nVision Ventures s.r.o.\nTakeda Pharmaceuticals Slovakia s.r.o.\nTaiwania Capital Management Corporation\nSlovenská sporiteľňa a.s.\neD system a.s. organizačná zložka Slovensko\nBritish Embassy Bratislava",
+        "SK CHAL 40 - 51",
+        "Eva Šimeková"
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Climathon 2021",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Climathon 2021\nClient Name in the local language/ language of the contract (End client for which the work is performed): Swiss Re Management AG Západoslovenská energetika, a.s. Vacuumlabs s. r. o.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK CLI 02,03,04\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2021-05-01\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2021-10-01\nCIVITTA project budget (External CIVITTA revenue excl. VAT, in local currency (if not eur)): €70,000.00\nProject Manager Name: Michal Laco\nOwner: Michal Laco\nProject Description: A hackathon is a creative and intense event used to gather new ideas and concepts. It invites diverse teams of programmers, data experts, designers, graphic designers and business experts to work on one of the assignments. After 48 hours, they create solutions that are presented and a panel of judges determines the winner. The capital and partners can develop the ideas (proof of concept) further with the teams and the subject matter can have a positive impact on data-driven city management and active involvement of residents in city life. The aim of the hackathon is to propose technical solutions that will help to address the challenges of sustainability, quality of life, transparency and information for the residents of Bratislava and the joint implementation of the Sustainable Development Goals 2030 (SDGs 2030).",
+      "stream": "Innovation",
+      "author": "Michal Laco",
+      "date": "2021-05-01",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "Swiss Re Management AG\nZápadoslovenská energetika",
+        "a.s.\nVacuumlabs s. r. o.",
+        "SK CLI 02",
+        "03",
+        "04",
+        "Michal Laco"
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Innovate Now! 2020-21",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Innovate Now! 2020-21\nClient Name in the local language/ language of the contract (End client for which the work is performed): InnoEnergy Central Europe Sp z o.o.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK INTR 03\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2020-07-01\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2021-07-21\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €92,255.00\nProject Manager Name: Michal Laco\nOwner: Michal Laco\nProject Description: Innovation Support Framework for fostering the collaboration of startups, SMEs and large companies on clean-tech projects\nClosed?: Yes",
+      "stream": "Innovation",
+      "author": "Michal Laco",
+      "date": "2020-07-01",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "InnoEnergy Central Europe Sp z o.o.",
+        "SK INTR 03",
+        "Michal Laco"
+      ]
+    },
+    {
+      "id": 43,
+      "title": "DANU Energy+ (2020-21)",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): DANU Energy+ (2020-21)\nClient Name in the local language/ language of the contract (End client for which the work is performed): InnoEnergy GmbH\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK DANU 02\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2021-01-07\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2021-06-30\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Data analytics\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €44,174.00\nProject Manager Name: Michal Laco\nOwner: Michal Laco\nClosed?: Yes",
+      "stream": "Innovation",
+      "author": "Michal Laco",
+      "date": "2021-01-07",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "InnoEnergy GmbH",
+        "SK DANU 02",
+        "Michal Laco"
+      ]
+    },
+    {
+      "id": 44,
+      "title": "",
+      "text": "",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 45,
+      "title": "",
+      "text": "",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 46,
+      "title": "EIC Accelerator - Nitroterra",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EIC Accelerator - Nitroterra\nClient Name in the local language/ language of the contract (End client for which the work is performed): Nitroterra Technology, j.s.a.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK NITRO 01 - OLD\nStream: Innovation\nBilled by: Civitta SK\nStart date (As per contract): 2020-03-09\nEnd date (As per contract. If the project is not finished, indicate the provisional date): 2021-03-31\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Funding\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €12,000.00\nProject Manager Name: Kristína Korčeková\nOwner: Eva Šimeková\nClosed?: Yes",
+      "stream": "Innovation",
+      "author": "Kristína Korčeková",
+      "date": "2020-03-09",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "Nitroterra Technology",
+        "j.s.a.",
+        "SK NITRO 01 - OLD",
+        "Eva Šimeková"
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Roche Corporate Accelerator 2022",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Roche Corporate Accelerator 2022\nClient Name in the local language/ language of the contract (End client for which the work is performed): Roche Slovensko, s.r.o.\nCode (If one contract/project has mutiple codes, indicate them ALL with a comma between them, e.g, EE ECO 12, EE ECO 12 OLD): SK ROCHE 02\nStream: Innovation\nBilled by: Civitta SK\nService line (Strategy, Data, Digital, Funding, Implementation, Innovation): Innovation\nTotal Project Budget (Total budget of the whole project, e.g., the project could be 100K, out of which our part is 50K, in local currency (if not eur)): €55,440.00\nProject Manager Name: Martin Veselý\nOwner: Peter Kolesár\nClosed?: Yes",
+      "stream": "Innovation",
+      "author": "Martin Veselý",
+      "date": "",
+      "tags": [
+        "Innovation",
+        "Civitta SK",
+        "Roche Slovensko",
+        "s.r.o.",
+        "SK ROCHE 02",
+        "Peter Kolesár"
+      ]
+    },
+    {
+      "id": 48,
+      "title": "",
+      "text": "",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 49,
+      "title": "",
+      "text": "",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 50,
+      "title": "Challenger Ideator",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Challenger Ideator\nProject Description: Non-equity intensive 3-month educational program for teams of students and aspiring entrepreneurs.​ It aims to build new skills and increase qualifications. Teams are generating, developing, and testing ideas. Mentoring and guidance are provided by experienced entrepreneurs or business professionals. ​In the current batch, we assist 50+ participants in 15 teams. ​",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 51,
+      "title": "Climathon 2023",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Climathon 2023",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 52,
+      "title": "EIT Urban Mobility 2024",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EIT Urban Mobility 2024\nProject Description: RIS Hubs will focus on supporting startups and organisations in applying to EIT UM open calls, expanding networking, and awareness-raising activities that will continue to build the basis of a strong RIS UM Hub operation in Slovakia. 1. Network - Map key stakeholders related to Urban Mobility and their potential connections in the region and Across Europe. Execute an engagement plan across the knowledge triangle. 2. Facilitating innovation – Support start-ups/scale-ups, providing education and training for public and private sector operators, public realm improvements, organizing events to boost knowledgeability and innovation in the field of urban mobility 3. Financial Sustainability Actions - These activities are aimed at making sure that the RIS UM Hub is providing real economic value to the UM sector.",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 53,
+      "title": "AI-EDIH (HOPERO)",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): AI-EDIH (HOPERO)\nProject Description: The Slovak AI Digital Innovation Hub - SKAI-eDIH - is a nation-wide ecosystem coordinated by the Kempelen Institute of Intelligent Technologies (KINIT) in close collaboration with the Centre of Operations of the Slovak Academy of Sciences (SAV), The Slovak Alliance for Innovation Economy (SAPIE) and CIVITTA Slovakia. The hub has a clear focus on artificial intelligence fully aligned with Slovakia’s national strategy in this regard, 2030 Digital Transformation Strategy for Slovakia. SKAI-eDIH is dedicated to 3 main goals: (1) promotion of digital technologies related to artificial intelligence (AI) in all its aspects, (2) supporting the SMEs in access to private and EU funding necessary for adoption of all digital technologies, focusing specifically on SMEs in the regions, and (3) development of digital innovation ecosystem. The hub supports mainly SMEs and organisations operating across 3 main value chains: (1) IoT value chain, (2) future mobility value chain and (3) smart health value chain, specializing in manufacturing, transport, energy, greentech, fintech, commerce, ICT, healthcare etc.",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 54,
+      "title": "Climathon Tirana 22-23",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Climathon Tirana 22-23\nProject Description: Hlavným cieľom projektu CLIMATHON ALBANIA je zlepšiť̌ kvalitu života a zdravia obyvateľov Albánska prostredníctvom zavádzania inovácií na zlepšenie udržateľnosti a ochrany životného prostredia. Projekt je zameraný na odovzdávanie praktických skúseností z úspešnej implementácie niekoľkých inovačných podujatí CLIMATHON BRATISLAVA. Do podujatia sú zapojené startupy, technologické firmy, študentské tímy a skúsení mentori, ktorých je cieľom je za 48 hodín vytvoriť prototypy inovatívnych riešení, ktoré reagujú na výzvy, ktorým čelia mestá. Dvoch ročníkov CLIMATHON ALBANIA sa zúčastní viac ako 170 účastníkov, ktorí pripravia aspoň 15 inovatívnych riešení. Projekt má dva špecifické ciele (1) zlepšenie povedomia o zelených inováciách a vybudovanie kapacít v mestách na zavádzanie zelených a inovatívnych riešení (2) zavedenie inovatívnych riešení, ktoré prispejú k udržateľnosti Albánska. Projekt nadväzuje na predchádzajúce projekty, ktoré boli zamerané na podporu startupov a inovatívnych technologických firiem v Albánsku (Uplift Albania) a rozširuje cieľovú skupiny aj na pracovníkov v štátnej správe, ktorí sa musia naučiť spolupracovať s angažovanými lokálnymi inovátormi. Dôraz je kladený na zvýšenie informovanosti ohľadom inovácií, ktoré môžu zmierniť dopady klimatickej zmeny a zameranie na praktickú implementáciu inovácií v kontexte albánskych miest.",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 55,
+      "title": "EIT Urban Mobility 2023",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EIT Urban Mobility 2023\nProject Description: RIS Hubs will focus on expanding networking, innovation support and awareness-raising activities that will continue to build the basis of a strong RIS UM Hub operation in Slovakia. 1. Network - Map key stakeholders related to Urban Mobility and their potential connections in the region and Across Europe. Execute an engagement plan across the knowledge triangle. 2. Facilitating innovation – Support start-ups/scale-ups, providing education and training for public and private sector operators, public realm improvements, organizing events to boost knowledgeability and innovation in the field of urban mobility 3. Awareness-raising activities - Activities of raising awareness about problems, challenges, and best practices in the local ecosystem 4. Financial Sustainability Actions - These activities are aimed at making sure that the RIS UM Hub is providing real economic value to the UM sector.",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 56,
+      "title": "EIT Health Hub 2023",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EIT Health Hub 2023\nProject Description: EIT Health RIS aims to develop the innovation ecosystems in the RIS regions where we support the creation of regional innovation valleys that will lead to the flow of talents, emergence of new ideas, the establishment of new start-ups, bringing more solutions to markets, and strengthening and better connecting innovation players throughout Europe. To reach this goal, the RIS programme will focus on accelerating and strengthening innovation across the RIS innovation ecosystems and addressing the innovation divide between regions; fostering, attracting, and retaining entrepreneurial talents to ensure the flow of talents; improving access to finance for RIS start-ups and scale-ups and equip them with the skills to successfully become integral players of European markets; improving the conditions of KTI collaborations to allow innovators to experiment with new ideas and help them to finalize their proof of concepts.",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 57,
+      "title": "SBOX Master Class",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): SBOX Master Class\nProject Description: StartupBox is a digital mentor for building a startup step by step. It will help participants to get innovative project off the ground, teach them what's important for their projects, and answer the most common questions in the early days of starting business.",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 58,
+      "title": "Improving Citizen Experience and Well-Being byUtilizing Culture and Creative Assets in the Digital Age",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Improving Citizen Experience and Well-Being byUtilizing Culture and Creative Assets in the Digital Age\nProject Description: Cities across the EUare facing lack of civic participation, lack of trust in public institutions and rise in populism. Investments into creative infrastructure have often fallen short of reaching the projected transformation impact on the local economyand its potential to increase civic engagement and wellbeing have not materialized. We have designed the Citizen Experience and Wellbeing Institute (CXI),which would use newart forms to collect data and provide evidence-based data to policy-makers.CXIwould be linked with the Urban Innovation Sphere supporting entrepreneurs and creative professions and the Dare to Create education component designed to foster creative education, competent &open administration and entrepreneurship. The solution is original and innovative because it brings the concept of citizen experience to policy-making and increases participation byproviding engaging access to data through art. It also provides a basis for an integrated approach to connecting culture and traditional industries for a more resilient economy. The change we want to bring to the current situation is threefold – (1) increase well-being of the citizens through cultural heritage and highlighting the role of citizen experience in decision-making, (2) make large employers in the region more competitive by establishing links with creative professions and create a pipeline of newstartups and urban innovations and (3) increase civic engagement and participation in culture.",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 59,
+      "title": "EIT Urban Mobility 2022",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EIT Urban Mobility 2022\nProject Description: The RIS Hub Slovakia will focus on expanding the network, supporting innovation and execute awareness-raising activities in the local ecosystam to build the basis of a strong Urban Mobility presence in the covered country. 1. Network Map key stakeholders related to Urban Mobility and their potenal connecons in the region and Across Europe. Execute an engagement plan across the knowledge triangle. 2. Facilitang innovaon Supporng start-ups/scale-ups, providing educaon and training for public and private sector operators, public realm improvements, organizing events to boost knowledgeability and innovaon in the field of urban mobility 3. Awareness-raising acvies Acvies of raising awareness about problems, challenges, and best pracces in the local ecosystem 4. Financial Sustainability Acons These acvies are aimed at making sure that the RIS UM Hub is providing real economic value to the UM sector. The Hub will work closely with the city of Braslava, and subsequently with the city of Kosice, to deliver planned acvies. Aer successfully pilong first iniaves in 2021, the workplan in 2022 is aimed at further developing relaonships and long term acvies with key stakeholders for the work of EIT Urban Mobility in Slovakia.",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 60,
+      "title": "EIT Climate-KIC Hub SK 2022",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EIT Climate-KIC Hub SK 2022\nProject Description: Following the EIT Climate-KIC Strategy for RIS, in 2022 our Hub will connue their role as Innovaon Community catalyst, consolidang its porolio of connected acons and implemenng their Governance and Financial Sustainability Plans. In parcular, in 2022, the Hub will deliver acons in 1) Hub Governance; 2) Ecosystem development and stakeholder engagement; 3) Financial Sustainability; 4) Outreach, disseminaon and Communicaon; 5) Cross-KIC and Cross-Hub collaboraon, following the framework shared in October 2021.",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 61,
+      "title": "Climate-KIC Accelerator 2022",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Climate-KIC Accelerator 2022\nProject Description: Challenger is a non-equity startup accelerator based in Bratislava. Every year we select a batch of 6 early-stage startups to participate in a 3-month program. We help you find product-market fit, paying customers, and raise investment to scale your operation. In the following batch, we are looking for startups and tech companies solving challenges in digitalization, cleantech, mobility, agritech, e-commerce, and manufacturing.",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 62,
+      "title": "EIT Health Hub 2022",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EIT Health Hub 2022\nProject Description: EIT Health Hub in Slovakia aims to find the best talents, entrepreneurs and start-ups from Slovakia, support innovative SMEs to create new economic activity and new jobs locally. In particular, the Hub is dedicated to the development of the local innovation ecosystem and is implementing several activities to help students, researchers, and entrepreneurs to find the best way to develop their hard and soft skills and to successfully translate their ideas into the market. Additionally, the Hub will organize pilot projects and accelerator programs to spark the passion for healthcare.",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 63,
+      "title": "EIT RawMaterials - Incubator 2022",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EIT RawMaterials - Incubator 2022\nProject Description: Our main scope is to develop and enhance the Startup Ecosystem in Slovakia with a sectorial focus around the Raw Materials value chain with key Objectives-targets: -Primary and short term target: Raise the number of applicants from Slovakia into EIT RawMaterials main startup/SME/entrepreneurship offerings (Jumpstarter, Booster, ACP, SME Call, local programs). -Primary and short-term target: Dedicated RIS Entrepreneurship program for 2 streams, first stream on Startups (developed and executed by EIT RawMaterials in RIS region); and second stream on Idea holders/teams offered in national level (upon local partner proposed approach). -Primary and short-medium term target: Scout the relevant for the raw materials sector startups, SMEs and idea holders/teams in Slovakia; and develop-nurture the process to create future potential entrepreneurs, in Slovakia relevant to raw materials sector. -Primary and medium-long term target: Develop jointly with EIT RawMaterials the prospects of selling and delivering innovation services; and exploit jointly with EIT RawMaterials options on securing additional funding through national and/or European funding opportunities.",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 64,
+      "title": "Challenger Green & Digital",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Challenger Green & Digital\nProject Description: Challenger is a training programme that works intensively with selected start-up companies over a period of three months to help them develop. Its aim is to help companies kick-start their business, improve their business model, enter the market and attract customers, partners and investors for further development. Selected startups will have a packed programme with top Slovak and foreign mentors, connections to investors and much more. In addition, each participating startup will receive a development grant of up to EUR 10,000!",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 65,
+      "title": "Climathon 2022",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Climathon 2022\nProject Description: A hackathon is a creative and intense event used to gather new ideas and concepts. It invites diverse teams of programmers, data experts, designers, graphic designers and business experts to work on one of the assignments. After 48 hours, they create solutions that are presented and a panel of judges determines the winner. The capital and partners can develop the ideas (proof of concept) further with the teams and the subject matter can have a positive impact on data-driven city management and active involvement of residents in city life. The aim of the hackathon is to propose technical solutions that will help to address the challenges of sustainability, quality of life, transparency and information for the residents of Bratislava and the joint implementation of the Sustainable Development Goals 2030 (SDGs 2030).",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 66,
+      "title": "Comprehensive analytical competence-building (Lifelong learning program FuturED)",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Comprehensive analytical competence-building (Lifelong learning program FuturED)\nProject Description: Civitta Slovakia won a public tender to create a unique lifelong learning program focusing on building analytical competences amongst the Slovak workforces. The aim of the project is to improve the quality and effectivity of lifelong learning in Slovakia. During the project, we will create a comprehensive educational program with 3 modules - project management, qualitative analytical methods, and quantitative analytical methods. Each module will be composed of 40 hours of teaching and participants will receive a certificate at the end of each module. In total, we aim to increase the competencies of 60 participants and create 5 additional partnerships confirmed by MoUs with external partners (companies, NGOs, educational institutions) who can further improve and disseminate the project outcomes.",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 67,
+      "title": "EIT Urban Mobility 2021",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EIT Urban Mobility 2021\nProject Description: The aim of this project is to establish EIT Urban Mobility RIS Hub in Slovakia. The Hub will connect EIT UM to key stakeholders, productive inputs, talent and customers for innovative ventures in Slovakia. The Hub activities will generate new teams, R&D projects and support startups working on innovative projects in urban mobility. The long-term outcomes will be new technologies piloted with increased citizen engagement & ready for market adoption. The aim of the Hub is also to support the connection of local innovation communities to international initiatives and support know-how exchange. The Hub aspires to increase Knowledge. Triangle Integration and regional and national innovation capacity.",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 68,
+      "title": "EIT Climate-KIC RIS Hub Management & Network Development SLOVAKIA",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EIT Climate-KIC RIS Hub Management & Network Development SLOVAKIA\nProject Description: The main goal of the EIT Climate-KIC Hub in Slovakia for 2020 is to establish the presence in the country and to establish strong connections with key national stakeholders from the public, private and NGO sector. This is foundational for the further development of the Hub and ability to effectively perform Hub’s activities. By the end of the year, the Hub aims to develop a specific vision and strategy for the next 3-5 years. The priority for 2020 is to build relationships with major cities (especially Bratislava and Kosice) and national authorities (Ministry of Environment). The aim for 2020 is to pilot a successful cooperation on a concrete activity that could be scaled in 2021 and beyond.",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 69,
+      "title": "Climathon 2021",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Climathon 2021\nProject Description: A hackathon is a creative and intense event used to gather new ideas and concepts. It invites diverse teams of programmers, data experts, designers, graphic designers and business experts to work on one of the assignments. After 48 hours, they create solutions that are presented and a panel of judges determines the winner. The capital and partners can develop the ideas (proof of concept) further with the teams and the subject matter can have a positive impact on data-driven city management and active involvement of residents in city life. The aim of the hackathon is to propose technical solutions that will help to address the challenges of sustainability, quality of life, transparency and information for the residents of Bratislava and the joint implementation of the Sustainable Development Goals 2030 (SDGs 2030).",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 70,
+      "title": "Danube Energy+",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Danube Energy+\nProject Description: Civitta Slovakia is a part of a consortium built around the former InnoEnergy hubs in the countries of the CEE. The activities of the projects were initially designed to support the pipeline creation for energy startups, which Innoenergy could invest in. The main target group are the young innovators (15-35 y. o.) with ideas in the field of energy efficiency, but also in the larger field of sustainability. The project is organized around 3 main activities: mapping of the national situation and creation of a dedicated education (pre-pre acceleration) programme, piloting of the programme in 1 iteration and development of a \"Hub\" to sustain the project's outputs after its end.",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 71,
+      "title": "EIT Digital ARISE Project",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): EIT Digital ARISE Project\nProject Description: The role of CIVITTA Slovakia is to represent EIT Digital in Slovakia and to carry out activities aimed at strengthening the Slovak innovation ecosystem to play an increasingly important role in the European digital space. An important outcome of the cooperation between CIVITTA Slovakia and EIT Digital will be a seminar for ICT students, connecting Slovak scale-up companies with the EIT Digital Accelerator and connecting EIT Digital with Slovak corporations. Goal 1: Support scaling up and internationalization of innovative companies from Slovakia ​ Goal 2: Building strategic business relationships with corporate companies in Slovakia ​ Goal 3: Establishing connection with relevant student communities in Slovakia and improving entrepreneurship skills of Slovak students Goal 4: Achieve visibility of joint activities between EIT Digital and CIVITTA Slovakia in Slovakia​",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 72,
+      "title": "Uplift Accelerator",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Uplift Accelerator\nProject Description: Due to the acute lack of support programs for early-stage startups and innovators, in 2018 Neulogy with partners created UPLIFT - the most complex acceleration program in Slovakia. The program focuses thematically on smart city and urban innovation but is open to other areas as well. Uplift delivers value in terms of workshops and mentoring for the startups as well as visibility and network building. Mentoring and business guidance are quoted as the main benefit of joining acceleration programs by 47% of the V4 startups (Visegrad startup report). In 2018, 20 startups graduated from two Uplift batches by pitching their ideas in front of a large audience (100+) during the Demo Day. Fall batch’ demo day was preceded by Investors’ Hour, when startups met in a “speed-dating” format with 11 investors from Slovakia, Austria and Hungary. The mayor of was among the key-note speakers and two cash prizes were awarded by the international jury – one for € 5,000 and one for € 1,000. The 3rd batch of UPLIFT will take place in the Fall of 2019, enriched by the V4 aspect.",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 73,
+      "title": "Innovate Now! 2019-20",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Innovate Now! 2019-20\nProject Description: Project main objective is to foster collaboration and innovation co-creation between cleantech startups/SMEs and large companies in Poland, Slovakia, Hungary, Slovenia and Croatia. The expected change is that, going beyond traditional procurer-supplier relationship and addressing the obstacles that companies in both sizes traditionally have, both target groups´ strengths can be utilised to the maximum extent and as a result, more innovative products and services reach the market. Startups/SMEs will also find novel ways to collaborate among themselves, learning to go beyond purely competitive co-existence into complementary collaboration in today´s highly specialised economy. Startups and companies (both SMEs and large companies) would be supported to customise themselves, overcome the identified obstacles that they traditionally possess, and act as real innovation channels delivering the new products and services to the market. Energy plays a main role as a cross-cutting issue in all partner countries´ (as well as EU in general) RIS3s, affecting many other sectors as well as their productivity. Therefore, strengthening innovation capacities in the area of energy would bring countries and regions a long term benefit. By strengthening the clean technology providing startups/SMEs and enhancing them to cooperate and co-create with each other and large companies, it is expected that more clean technology solutions and services will be implemented in the partner countries.",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    },
+    {
+      "id": 74,
+      "title": "Orange feasibility study",
+      "text": "Project Title in English language (Original Project Title from the TOR/Contract): Orange feasibility study\nProject Description: Comprehensive feasibility study to support the establishment of the Orange Digital Center. The aim of ODC was to support the develop of digital skills. The center brings together a wide range of tools and services providing access to learning paths in digital know-how and the creation of businesses based on new technology and with a strong social impact. The feasibility study focused on 4 key pillars: 1. Coding school / Digital skills training, 2. Digital platform for online trainings, 3. Solidarity Fabrication Laboratory , 4. Orange Fab, a platform connecting startups to corporations for strategic investment and partnership opportunities.",
+      "stream": "",
+      "author": "",
+      "date": "",
+      "tags": []
+    }
+  ]
+}

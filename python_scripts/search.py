@@ -158,8 +158,8 @@ def main():
     parser.add_argument('query', help='Search query string')
     parser.add_argument('--embeddings', default='embeddings.npy', 
                        help='Path to embeddings file (default: embeddings.npy)')
-    parser.add_argument('--data', default='sample_data.json',
-                       help='Path to document data JSON file (default: sample_data.json)')
+    parser.add_argument('--data', default='data.json',
+                       help='Path to document data JSON file (default: data.json)')
     parser.add_argument('--top-k', type=int, default=5,
                        help='Number of top results to return (default: 5)')
     parser.add_argument('--model', default='sentence-transformers/all-MiniLM-L6-v2',
